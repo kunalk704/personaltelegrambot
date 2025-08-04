@@ -17,3 +17,7 @@ BOT_TOKEN=your_bot_token
 ```bash
 node index.js
 ```
+
+### WHAT ARE THE THINGS THAT IT CAN DO
+
+It will answer some of your random question not date based but general. If you write /joke it will return you with a random joke. It will repeat whatever you send as a text.
